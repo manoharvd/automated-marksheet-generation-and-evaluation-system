@@ -4,7 +4,7 @@ An academic management web application developed to automate student marksheet c
 This project helps educational institutions reduce manual work, improve accuracy, and generate reports efficiently.
 # screenshots
 <img width="1896" height="1070" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/a2597948-d62c-442c-8f4a-526be07ce354" />
-
+<br>
 
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/b28861aa-853f-4f47-a8eb-611433888da2" />
 
