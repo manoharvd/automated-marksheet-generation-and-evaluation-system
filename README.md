@@ -2,8 +2,7 @@
 
 An academic management web application developed to automate student marksheet creation, result evaluation, and records management. 
 This project helps educational institutions reduce manual work, improve accuracy, and generate reports efficiently.
-
-#live demo
+# live demo
 http://localhost:10914/Automated%20marksheet%20generation%20and%20evaluation%20system/Admin/Index.aspx
 
 ## 📌 Project Overview
