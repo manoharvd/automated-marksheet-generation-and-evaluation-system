@@ -8,9 +8,6 @@ This project helps educational institutions reduce manual work, improve accuracy
 
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/b28861aa-853f-4f47-a8eb-611433888da2" />
 
-# live demo
-http://localhost:10914/Automated%20marksheet%20generation%20and%20evaluation%20system/Admin/Index.aspx
-
 ## 📌 Project Overview
 
 The **Automated Marksheet Generation and Evaluation System** is designed to simplify the process of entering student marks, 
